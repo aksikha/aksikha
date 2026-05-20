@@ -4,7 +4,7 @@
 
 I lead software engineering and AI strategy at the executive level, with a focus on enterprise modernization, agentic AI, and large-scale platforms built to hold up in production. My work spans fintech, healthcare, and energy, where the hard part is rarely the technology on its own. It is aligning architecture, teams, and business outcomes so the work actually ships and pays off.
 
-I use this profile to share working prototypes, reference architectures, and field notes, both to show my own work and to give other technology leaders something they can build on. The full professional picture lives on [LinkedIn](LINKEDIN_URL_HERE).
+I use this profile to share working prototypes, reference architectures, and field notes, both to show my own work and to give other technology leaders something they can build on. The full professional picture lives on [LinkedIn]([LINKEDIN_URL_HERE](https://www.linkedin.com/in/ajay-sikha/)).
 
 ## What I focus on
 
@@ -23,4 +23,4 @@ The pinned repositories below cover reference architectures and working prototyp
 
 ## Connect
 
-Open to conversations on AI strategy, enterprise modernization, and engineering leadership. Reach me on [LinkedIn](LINKEDIN_URL_HERE).
+Open to conversations on AI strategy, enterprise modernization, and engineering leadership. Reach me on [LinkedIn]([LINKEDIN_URL_HERE](https://www.linkedin.com/in/ajay-sikha/)).
